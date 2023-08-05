@@ -1,4 +1,5 @@
 User-agent: *
-Allow: /
 
-Sitemap: https://seogoing.github.io/sitemap.xml
+Disallow: /norobots/
+
+Sitemap: http://localhost:5000/sitemap.xml
