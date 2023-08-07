@@ -15,7 +15,7 @@ platforms:
     link: "https://t.me/share/url?url=URL&text=TITLE"
   
   - type: googlescholar
-    icon: "fab fa-graduation-cap"
+    icon: "fas fa-graduation-cap"
     url: "https://scholar.google.com/citations?user=Po5s8okAAAAJ"
 
   # Uncomment below if you need to.
