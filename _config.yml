@@ -20,7 +20,7 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: seogoing # the main title
+title: seogoi # the main title
 
 tagline: "Mastering Weather Data: Analysis and Coding"  # it will display as the sub-title
 
