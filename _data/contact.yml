@@ -4,7 +4,7 @@
   icon: "fab fa-github"
 
 - type: googlescholar
-  icon: "fab fa-graduation-cap"
+  icon: "fas fa-graduation-cap"
   url: "https://scholar.google.com/citations?user=Po5s8okAAAAJ"
 
 - type: email
