@@ -4,8 +4,8 @@
   icon: "fab fa-github"
 
 - type: researchgate
-  icon: "fas fa-researchgate"
-  noblank: true # open link in current tab
+  icon: "fab fa-researchgate"
+  url: "https://www.researchgate.net/profile/Ga-Yeong-Seo"
 
 - type: email
   icon: "fas fa-envelope"
