@@ -3,9 +3,9 @@
 - type: github
   icon: "fab fa-github"
 
-- type: researchgate
-  icon: "fab fa-researchgate"
-  url: "https://www.researchgate.net/profile/Ga-Yeong-Seo"
+- type: googlescholar
+  icon: "fab fa-graduation-cap"
+  url: "https://scholar.google.com/citations?user=Po5s8okAAAAJ"
 
 - type: email
   icon: "fas fa-envelope"
