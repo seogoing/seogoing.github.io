@@ -13,7 +13,11 @@ platforms:
   - type: Telegram
     icon: "fab fa-telegram"
     link: "https://t.me/share/url?url=URL&text=TITLE"
-
+  
+  - type: researchgate
+    icon: "fab fa-researchgate"
+    link: "https://www.researchgate.net/profile/Ga-Yeong-Seo"
+    
   # Uncomment below if you need to.
   #
   # - type: Linkedin
