@@ -3,6 +3,10 @@
 - type: github
   icon: "fab fa-github"
 
+- type: researchgate
+  icon: "fas fa-researchgate"
+  noblank: true # open link in current tab
+
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
