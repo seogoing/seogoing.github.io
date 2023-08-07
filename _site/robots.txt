@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://seogoing.github.io/sitemap.xml
