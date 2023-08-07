@@ -28,6 +28,7 @@ const resource = [
         '/assets/img/favicons/apple-touch-icon.png',
         '/assets/img/favicons/favicon-16x16.png',
         '/assets/img/favicons/favicon-32x32.png',
+        '/assets/img/favicons/favicon-96x96.png',
         '/assets/img/favicons/favicon.ico',
         '/assets/img/favicons/mstile-150x150.png',
         '/assets/js/dist/categories.min.js',
@@ -41,11 +42,12 @@ const resource = [
 /* The request url with below domain will be cached */
 const allowedDomains = [
     
+        'www.googletagmanager.com',
+        'www.google-analytics.com',
+    
 
     'localhost:5000',
 
-    
-        'chirpy-img.netlify.app',
     
 
     'fonts.gstatic.com',
