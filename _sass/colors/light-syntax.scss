@@ -5,13 +5,13 @@
 @mixin light-syntax {
   /* based on: <https://raw.githubusercontent.com/jwarby/pygments-css/master/github.css> */
   .highlight .hll { background-color: #ffffcc; }
-  .highlight .c { color: #717165; font-style: italic; } /* Comment */
+  .highlight .c { color: #999991; font-style: italic; } /* Comment */
   .highlight .err { color: #a61717; background-color: #e3d2d2; } /* Error */
-  .highlight .k { color: #000000; font-weight: bold; } /* Keyword */
-  .highlight .o { color: #000000; font-weight: bold; } /* Operator */
-  .highlight .cm { color: #717165; font-style: italic; } /* Comment.Multiline */
+  .highlight .k { color: #1ACC44; font-weight: bold; } /* Keyword  sgy*/
+  .highlight .o { color: #B921E3; font-weight: bold; } /* Operator */
+  .highlight .cm { color: #999991; font-style: italic; } /* Comment.Multiline */
   .highlight .cp { color: #707070; font-style: italic; } /* Comment.Preproc */
-  .highlight .c1 { color: #717165; font-style: italic; } /* Comment.Single */
+  .highlight .c1 { color: #999991; font-style: italic; } /* Comment.Single */
   .highlight .cs { color: #707070; font-weight: bold; font-style: italic; } /* Comment.Special */
   .highlight .gd { color: #d01040; background-color: #ffdddd; } /* Generic.Deleted */
   .highlight .ge { color: #000000; font-style: italic; } /* Generic.Emph */
@@ -23,27 +23,29 @@
   .highlight .gs { font-weight: bold; } /* Generic.Strong */
   .highlight .gu { color: #aaaaaa; } /* Generic.Subheading */
   .highlight .gt { color: #aa0000; } /* Generic.Traceback */
-  .highlight .kc { color: #000000; font-weight: bold; } /* Keyword.Constant */
-  .highlight .kd { color: #000000; font-weight: bold; } /* Keyword.Declaration */
-  .highlight .kn { color: #000000; font-weight: bold; } /* Keyword.Namespace */
-  .highlight .kp { color: #000000; font-weight: bold; } /* Keyword.Pseudo */
-  .highlight .kr { color: #000000; font-weight: bold; } /* Keyword.Reserved */
+  .highlight .kc { color: #1ACC44; font-weight: bold; } /* Keyword.Constant */
+  .highlight .kd { color: #1ACC44; font-weight: bold; } /* Keyword.Declaration */
+  .highlight .kn { color: #1ACC44; font-weight: bold; } /* Keyword.Namespace */
+  .highlight .kp { color: #1ACC44; font-weight: bold; } /* Keyword.Pseudo */
+  .highlight .kr { color: #1ACC44; font-weight: bold; } /* Keyword.Reserved */
   .highlight .kt { color: #445588; font-weight: bold; } /* Keyword.Type */
   .highlight .m { color: #009999; } /* Literal.Number */
   .highlight .s { color: #d01040; } /* Literal.String */
+  .highlight .n { color: #000000; } /* Name sgy*/
+  .highlight .p { color: #000000; } /* Punctuation sgy*/
   .highlight .na { color: #005e5e; } /* Name.Attribute */
   .highlight .nb { color: #0078a1; } /* Name.Builtin */
   .highlight .nc { color: #445588; font-weight: bold; } /* Name.Class */
   .highlight .no { color: #005e5e; } /* Name.Constant */
   .highlight .nd { color: #3c5d5d; font-weight: bold; } /* Name.Decorator */
   .highlight .ni { color: #800080; } /* Name.Entity */
-  .highlight .ne { color: #990000; font-weight: bold; } /* Name.Exception */
-  .highlight .nf { color: #990000; font-weight: bold; } /* Name.Function */
-  .highlight .nl { color: #990000; font-weight: bold; } /* Name.Label */
+  .highlight .ne { color: #3A86E2; font-weight: bold; } /* Name.Exception */
+  .highlight .nf { color: #3A86E2; font-weight: bold; } /* Name.Function */
+  .highlight .nl { color: #3A86E2; font-weight: bold; } /* Name.Label */
   .highlight .nn { color: #555555; } /* Name.Namespace */
   .highlight .nt { color: #000080; } /* Name.Tag */
   .highlight .nv { color: #005e5e; } /* Name.Variable */
-  .highlight .ow { color: #000000; font-weight: bold; } /* Operator.Word */
+  .highlight .ow { color: #1ACC44; font-weight: bold; } /* Operator.Word */
   .highlight .w { color: #bbbbbb; } /* Text.Whitespace */
   .highlight .mf { color: #009999; } /* Literal.Number.Float */
   .highlight .mh { color: #009999; } /* Literal.Number.Hex */

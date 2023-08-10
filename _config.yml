@@ -25,7 +25,7 @@ title: seogoing # the main title
 tagline: "Mastering Weather Data: Analysis and Coding"  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Mastering Weather Data: Analysis and Coding. 
+  Mastering Weather Data: Analysis and Coding
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://seogoing.github.io'
